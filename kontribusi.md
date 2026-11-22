@@ -26,7 +26,7 @@ Setiap anggota bekerja melalui repository fork masing-masing dan mengajukan Pull
 | No. | Nama Anggota | Link Pull Request | Ringkasan | Status |
 |---|---|---|---|---|
 | 1 | Irfan Reska Nugraha | https://github.com/Reska909/UTS-ML/pull/1 | Inisialisasi dokumen kontribusi & notebook awal | Merged |
-| 2 | Ruben Alfa Richie | [Isi link PR Task 3 & Pipeline setelah buka PR] | Perbaikan Task 3 (`cluster.csv`), pipeline reproducible `kode/`, Task 1 & 2, dan `laporan.pdf` | [Merged] |
+| 2 | Ruben Alfa Richie | https://github.com/Reska909/UTS-ML/pull/2 | Perbaikan Task 3 (`cluster.csv`), pipeline reproducible `kode/`, Task 1 & 2, dan `laporan.pdf` | Open (Siap Merge) |
 
 ## 4. Penggunaan Artificial Intelligence (AI)
 
