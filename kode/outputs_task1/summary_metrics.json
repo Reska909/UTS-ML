@@ -1,0 +1,19 @@
+{
+  "python": "3.15.0",
+  "lightgbm": "4.7.0",
+  "random_seed": 42,
+  "n_unit_errors_fixed": 370,
+  "n_corrupt_jarak_fixed": 1159,
+  "n_unseen_kurir_test": 2342,
+  "pinball_p50_with_leakage": 5.4649,
+  "pinball_p50_random_cv": 6.5007,
+  "pinball_p50_time_val": 6.9083,
+  "pinball_p90_time_val": 4.5047,
+  "delta_p90_conformal": 5.774,
+  "aug_coverage_before": 0.8657,
+  "aug_coverage_after": 0.907,
+  "aug_pinball_p90_before": 4.4547,
+  "aug_pinball_p90_after": 4.3854,
+  "best_iter_p50": 1075,
+  "best_iter_p90": 374
+}
