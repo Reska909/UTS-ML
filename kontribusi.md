@@ -4,7 +4,7 @@
 
 | No. | Nama | NIM | Tanggung Jawab |
 |---|---|---|---|
-| 1 | Irfan Reska Nugraha | 101032300042 | Pengerjaan Task 1 (Regresi), Task 2 (Klasifikasi / Fraud Detection) dan Readme|
+| 1 | Irfan Reska Nugraha | 101032300042 | Pengerjaan Task 1 (Regresi), Task 2 (Klasifikasi / Fraud Detection) dan README|
 | 2 | Ruben Alfa Richie | 101032300008 | Pengerjaan Task 3 (Clustering), integrasi pipeline reproducible (`kode/`), dan penyusunan laporan akhir (`laporan.pdf`) |
 
 ## 2. Rincian Kontribusi
