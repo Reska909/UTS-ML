@@ -1,0 +1,18 @@
+{
+  "python": "3.15.0",
+  "lightgbm": "4.7.0",
+  "random_seed": 42,
+  "n_train_mature": 367610,
+  "n_train_censored_excluded": 35467,
+  "pr_auc_with_leakage": 0.82196,
+  "pr_auc_clean_mature_val": 0.68963,
+  "pr_auc_censored_aug11_31": 0.16247,
+  "used_time_decay": true,
+  "selected_calibration": "isotonic",
+  "flag_none_cost": 486135500.0,
+  "flag_all_cost": 1744275000.0,
+  "best_cost_val": 77914700.0,
+  "cost_reduction_vs_none_pct": 83.97,
+  "test_flagged_count": 1518,
+  "test_flagged_pct": 1.423
+}

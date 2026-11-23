@@ -1,0 +1,25 @@
+{
+  "python_version": "3.15.0",
+  "numpy": "2.5.4",
+  "pandas": "3.1.1",
+  "scikit_learn": "1.9.1",
+  "scipy": "1.18.1",
+  "random_seed": 42,
+  "n_rows": 120000,
+  "n_anomalies": 1800,
+  "bot_overlap": 1797,
+  "silhouette_noisy_k6": 0.0376,
+  "silhouette_clean_k6": 0.1587,
+  "final_gmm_silhouette": 0.1541,
+  "final_gmm_davies_bouldin": 1.8867,
+  "final_gmm_calinski_harabasz": 2135.78,
+  "cluster_counts": {
+    "-1": 1800,
+    "0": 15119,
+    "1": 28857,
+    "2": 11443,
+    "3": 28553,
+    "4": 10889,
+    "5": 23339
+  }
+}
