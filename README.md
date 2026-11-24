@@ -24,8 +24,7 @@ UTS-ML/
     ├── run_all.py
     ├── task_1_regresi.py
     ├── task_2_klasifikasi.py
-    ├── task_3_clustering.py
-    └── build_laporan.py
+    └── task_3_clustering.py
 ```
 
 ## Cara Reproduksi (Satu Perintah)
